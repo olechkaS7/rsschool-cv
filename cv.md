@@ -26,11 +26,6 @@
         <article>
             <h1>Заголовок1</h1>
             <p>Текст...</p>
-
-            <p>Текст...</p>
-            <img src="files/gifka.gif" width="250" height="120" alt="ссылка GIF">
-
-            <p>Текст...</p>
             <img src="files/portrait.png" height="250" alt="ссылка">
         </article>
       <aside>
